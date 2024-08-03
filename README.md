@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">Welcome to the Frontend Repository! This project is built using React.js, aimed at providing a robust, responsive, and user-friendly interface.</h3>
+
+- 🔭 I’m currently working on [InstatrackPro](https://www.instatrackpro.com/)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://jyash-portfolio.netlify.app/](https://jyash-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/jyash1](https://github.com/jyash1)
 
 - 💬 Ask me about **React, Javascript,Html5,Css3,Material UI, Python and Rest API**
 
